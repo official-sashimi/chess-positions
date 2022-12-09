@@ -1,0 +1,22 @@
+{
+  "name": "@official-sashimi/chess-positions",
+  "version": "0.1.0",
+  "description": "Provide entities about position of chess.For example rank and file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/official-sashimi/chess-positions.git"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "Kota 0kishima <okishimaxyz@gmail.com> (https://github.com/k0kishima)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/official-sashimi/chess-positions/issues"
+  },
+  "homepage": "https://github.com/official-sashimi/chess-positions#readme"
+}
