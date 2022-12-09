@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/official-sashimi/chess-positions/issues"
   },
-  "homepage": "https://github.com/official-sashimi/chess-positions#readme"
+  "homepage": "https://github.com/official-sashimi/chess-positions#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
 }
