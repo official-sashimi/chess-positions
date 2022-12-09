@@ -21,5 +21,8 @@
   "homepage": "https://github.com/official-sashimi/chess-positions#readme",
   "dependencies": {
     "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "rome": "^11.0.0"
   }
 }
