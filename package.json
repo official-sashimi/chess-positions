@@ -2,10 +2,12 @@
   "name": "@official-sashimi/chess-positions",
   "version": "0.1.0",
   "description": "Provide entities about position of chess.For example rank and file.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "jest",
-    "prepare": "husky install"
+    "prepare": "husky install && npm run build"
   },
   "repository": {
     "type": "git",
